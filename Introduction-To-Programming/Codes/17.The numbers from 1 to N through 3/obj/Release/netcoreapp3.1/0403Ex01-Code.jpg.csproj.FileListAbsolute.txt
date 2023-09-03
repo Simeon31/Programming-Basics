@@ -1,0 +1,14 @@
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\bin\Release\netcoreapp3.1\0403Ex01-Code.jpg.exe
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\bin\Release\netcoreapp3.1\0403Ex01-Code.jpg.deps.json
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\bin\Release\netcoreapp3.1\0403Ex01-Code.jpg.runtimeconfig.json
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\bin\Release\netcoreapp3.1\0403Ex01-Code.jpg.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\bin\Release\netcoreapp3.1\0403Ex01-Code.jpg.dll
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\bin\Release\netcoreapp3.1\0403Ex01-Code.jpg.pdb
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.AssemblyInfo.cs
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.dll
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.pdb
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.genruntimeconfig.cache
+C:\Users\Computer\source\repos\0403Ex01-Code.jpg\0403Ex01-Code.jpg\obj\Release\netcoreapp3.1\0403Ex01-Code.jpg.csproj.AssemblyReference.cache

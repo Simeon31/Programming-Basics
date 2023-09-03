@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace _0403Ex03_Code.jpg
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            long num = 1;
+            for (int i = 0; i<= n; i++)
+            {
+                Console.WriteLine(num);
+                num = num * 2;
+
+            }
+
+        }
+    }
+}
